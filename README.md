@@ -13,4 +13,4 @@ photo
 | -------------   |:-------------:| 
 | Favorite color  | white         | 
 | Favorite food   |               | 
-| Pineapple on pizza  | -[]     | 
+| Pineapple on pizza  |  <ul><li>[x] </li></ul>   | 
