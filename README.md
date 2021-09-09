@@ -5,7 +5,7 @@ Personal intro markdown page
 
 *...get that something-something*
 
-photo
+![alt text]( ./someguy.jpg "Some guy")
 
 ## "I could'nt find something smart to get here"
 
@@ -15,4 +15,4 @@ photo
 | Favorite food   |               | 
 | Pineapple on pizza  | - []   | 
 
-<<[Profile precedent]() | Maxim K | [Profile suivant](https://github.com/Mika215/markdown-challange/blob/main/personal-intro.md)>>
+<<[Profile precedent](https://github.com/JeanChristopheM/markdown-challenge) | Maxim K | [Profile suivant](https://github.com/Mika215/markdown-challange)>>
