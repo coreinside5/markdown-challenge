@@ -14,3 +14,5 @@ photo
 | Favorite color  | white         | 
 | Favorite food   |               | 
 | Pineapple on pizza  | - []   | 
+
+[Profile precedent]() | Maxim K | [Profile suivant]()
