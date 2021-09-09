@@ -1,13 +1,13 @@
 # markdown-challenge
 Personal intro markdown page
 
-#Maxim K
+# Maxim K
 
 *...get that something-something*
 
 photo
 
-##"I could'nt find something smart to get here"
+## "I could'nt find something smart to get here"
 
 | Birthday        |               | 
 | -------------   |:-------------:| 
