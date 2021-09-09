@@ -5,7 +5,7 @@ Personal intro markdown page
 
 *...get that something-something*
 
-![alt text]( ./someguy.jpg "Some guy")
+![alt text](someguy.jpg "Some guy")
 
 ## "I could'nt find something smart to get here"
 
