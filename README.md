@@ -15,4 +15,4 @@ photo
 | Favorite food   |               | 
 | Pineapple on pizza  | - []   | 
 
-<<[Profile precedent]() | Maxim K | [Profile suivant]()>>
+<<[Profile precedent]() | Maxim K | [Profile suivant](https://github.com/Mika215/markdown-challange/blob/main/personal-intro.md)>>
