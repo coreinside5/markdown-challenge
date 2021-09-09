@@ -9,7 +9,9 @@ Personal intro markdown page
 
 ## "I could'nt find something smart to get here"
 
-| Birthday        |               
+
+| -------------   |:-------------:| 
+| Birthday        |               | 
 | Favorite color  | white          
 | Favorite food   | something white              
 | Pineapple on pizza  | <ul><li>[ ] Yes/No</li></ul>
