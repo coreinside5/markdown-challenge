@@ -13,6 +13,6 @@ Personal intro markdown page
 | -------------   |:-------------:| 
 | Favorite color  | white         | 
 | Favorite food   | something white              | 
-| Pineapple on pizza  |<ul><li>- [] Yes/No</li></ul> | 
+| Pineapple on pizza  | <ul><li>- [] Yes</li><li>- [] No</li></ul> | 
 
 <<[Profile precedent](https://github.com/JeanChristopheM/markdown-challenge) | Maxim K | [Profile suivant](https://github.com/Mika215/markdown-challange)>>
