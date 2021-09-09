@@ -1,7 +1,6 @@
-# markdown-challenge
-Personal intro markdown page
-
 # Maxim K
+
+###### markdown-challenge - Personal intro markdown page
 
 *...get that something-something*
 
